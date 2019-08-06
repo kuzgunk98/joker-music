@@ -1,0 +1,6 @@
+owner=535754489492406275
+prefix=+
+game=Kuzgun
+stayinchannel=true
+songinstatus=false
+token=NjA4NDI3NjIyNTczMDE1MDQw.XUoA_w.lPpaembfRWcgjIMTtJO1l2mSA10
